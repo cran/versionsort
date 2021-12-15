@@ -1,0 +1,11 @@
+3507daedf889ae7d24092d88c77cd7ab *DESCRIPTION
+f0fefcfd149998dbdb9e44420613b915 *NAMESPACE
+cba2dc8f31c5e7aecacb6a8229d85ec0 *NEWS.md
+a4125df9c30825ef608d0c137cc7502a *R/versionsort.R
+0e9984bdffcff261af0ab19eca5908de *README.md
+43617678758ef4553c55f734e97f4c18 *inst/WORDLIST
+fadeb94687df6bf909b30a83c8bdd0ed *man/ver_order.Rd
+e0191a88d5c04072a9c5bb02d91d89a5 *man/ver_sort.Rd
+332173f20d20942c02019350ea4dcadc *tests/spelling.R
+3fc779ad1744dcd511b01a194a6b12f1 *tests/testthat.R
+e51afd35c0c6c7925f4607a47d83be1c *tests/testthat/test-versionsort.R
